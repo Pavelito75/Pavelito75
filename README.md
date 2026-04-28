@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Pavel</h1>
-<h3 align="center">Student at Web@cademie by Epitech | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   Passionate about web development, I'm currently training to become a full-stack developer.<br />
@@ -20,7 +20,7 @@
 
 <div align="center" style="max-width: 700px; margin: auto; text-align: center;">
   <p>
-    I'm currently a student at <strong>Web@cademie by Epitech</strong>, on the path to becoming a <strong>full-stack developer</strong>.<br/>
+    I'm currently on the path to becoming a <strong>full-stack developer</strong>.<br/>
     I’m building projects like a <a href="https://github.com/Pavelito75/My-Quizz" target="_blank" rel="noopener noreferrer">Quiz App</a>, and planning an interactive <a href="https://github.com/Pavelito75/BetterChess" target="_blank" rel="noopener noreferrer">Chess Website</a>.<br/>
     I work with <strong>Java</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, and frameworks like <strong>Laravel</strong>, <strong>Symfony</strong>, and <strong>React</strong>.<br/>
     Always learning, I enjoy exploring tools like <strong>Docker</strong>, <strong>PostgreSQL</strong>, and <strong>Tailwind CSS</strong>.<br/><br/>
