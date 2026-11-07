@@ -18,8 +18,6 @@
 
 ## 🚀 À propos
 
-## 🚀 À propos
-
 Je suis actuellement en **bachelor Systèmes, Réseaux & Cybersécurité à Epitech**.
 
 Ma force : allier **rigueur technique** (Linux, diagnostic réseau, analyse de logs) et **maturité terrain** (travail sous pression, sens logistique, vulgarisation auprès d'utilisateurs non techniciens, sans jargon).
@@ -33,18 +31,6 @@ Consulte mon [Portfolio (bientôt disponible)](#) ou mon [CV (bientôt disponibl
 <!-- TODO : remplacer les deux liens "#" ci-dessus par les nouvelles URL du Portfolio et du CV -->
 
 *🎪 Anecdote : J'ai voulu rejoindre le cirque avant de me lancer dans la tech !*
-
----
-
-## 🎯 Projets Pratiques
-
-- 🖥️ **Infrastructure Homelab (Proxmox/ESXi)** : Déploiement et gestion d'un environnement virtualisé pour tester des architectures systèmes et réseaux en conditions réelles.
-- 🛡️ **Sécurisation & Segmentation Réseau (pfSense)** : Configuration de pare-feux, création de VLANs pour isoler le trafic (LAN, DMZ, IoT), et mise en place de règles de filtrage (iptables/ufw).
-- 🔐 **Architecture d'accès distant** : Déploiement de tunnels VPN sécurisés (WireGuard / OpenVPN) pour l'accès externe à l'infrastructure.
-- 🌐 **Analyse de trafic & Diagnostic** : Capture et inspection approfondie de trames réseau avec Wireshark et tcpdump pour isoler des anomalies de flux.
-- 🧪 **Lab SIEM Wazuh (Docker)** : Ingestion de logs d'authentification et de honeypots, création de règles de détection personnalisées, et alerting en temps réel.
-- 🧩 **SupportDesk Vulnérable** : Application Node/Express développée intentionnellement avec des failles (inspirées de l'OWASP), supervisée par Wazuh pour simuler des attaques et analyser les logs d'intrusion générés.
-- 💻 **Projets de développement web** : Création d'une [application de quiz](https://github.com/Pavelito75/My-Quizz) et d'un [site d'échecs](https://github.com/Pavelito75/BetterChess) (PHP, JS, Symfony).
 
 ---
 
@@ -75,6 +61,18 @@ Consulte mon [Portfolio (bientôt disponible)](#) ou mon [CV (bientôt disponibl
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,php,symfony,laravel,react" height="45" />
 </p>
+
+---
+
+## 🎯 Projets Pratiques
+
+- 🖥️ **Infrastructure Homelab (Proxmox/ESXi)** : Déploiement et gestion d'un environnement virtualisé pour tester des architectures systèmes et réseaux en conditions réelles.
+- 🛡️ **Sécurisation & Segmentation Réseau (pfSense)** : Configuration de pare-feux, création de VLANs pour isoler le trafic (LAN, DMZ, IoT), et mise en place de règles de filtrage (iptables/ufw).
+- 🔐 **Architecture d'accès distant** : Déploiement de tunnels VPN sécurisés (WireGuard / OpenVPN) pour l'accès externe à l'infrastructure.
+- 🌐 **Analyse de trafic & Diagnostic** : Capture et inspection approfondie de trames réseau avec Wireshark et tcpdump pour isoler des anomalies de flux.
+- 🧪 **Lab SIEM Wazuh (Docker)** : Ingestion de logs d'authentification et de honeypots, création de règles de détection personnalisées, et alerting en temps réel.
+- 🧩 **SupportDesk Vulnérable** : Application Node/Express développée intentionnellement avec des failles (inspirées de l'OWASP), supervisée par Wazuh pour simuler des attaques et analyser les logs d'intrusion générés.
+- 💻 **Projets de développement web** : Création d'une [application de quiz](https://github.com/Pavelito75/My-Quizz) et d'un [site d'échecs](https://github.com/Pavelito75/BetterChess) (PHP, JS, Symfony).
 
 ---
 
